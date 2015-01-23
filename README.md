@@ -279,3 +279,7 @@ PUSH and PULL away!
 2. [Flask Extensions](http://flask.pocoo.org/extensions/)
 1. [Real Python](http://www.realpythonfortheweb.com) :)
 
+Appended information about this project "flask-ipbooklet":
+
+An intellectual property management tool on a Flask framework
+
